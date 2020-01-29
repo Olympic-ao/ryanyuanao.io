@@ -112,9 +112,9 @@ Ryan袁奥|室长|0
 
 ### 我们工作室开发的库
 
-**draw.py代码：
+**draw.py代码：**
 
-(```)
+
 
     import turtle
 
@@ -156,7 +156,6 @@ Ryan袁奥|室长|0
 
         variable = turtle.Pen()
 
-(```)
 
 
 
