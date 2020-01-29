@@ -1,5 +1,7 @@
 ## 欢迎来到Ryan袁奥工作室分站！
 
+**感谢CJW天马神坑
+
 ***
 
 >人们认为计算机科学是天才的艺术，但事实完全相反：只是很多人在共同建立起来的事物之上工作，就像一条由小石头铺成的小径。
@@ -161,6 +163,28 @@ Ryan袁奥|室长|0
         variable = turtle.Pen()
 
 ***
+
+**[友情链接：编程猫](http://www.codemao.cn/)**
+
+**[友情链接：黑洞工作室](http://h.bu40.com/)**
+
+**[友情链接：Toby的博客](https://programertobylai.github.io/)**
+
+**[友情链接：程熠楷的网站](https://bcmmc.github.io/)**
+
+**[友情链接：邱俊瑞的网站](https://qiujunrui.github.io/)**
+
+**[友情链接：唐增鲜的网站](https://tangzengxian.github.io/)**
+
+**[友情链接：Syrathon Tools](https://tools.syrathon.com/)**
+
+**[友情链接：也渔业的网站](https://ye-yu-ye.github.io/)**
+
+**[友情链接：Leo韩的网站](https://leohan666.github.io/)**
+
+
+
+
 
 
 
