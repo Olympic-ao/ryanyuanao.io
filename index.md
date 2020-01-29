@@ -10,7 +10,7 @@
 
 **[我们工作室的分站3](http://ryanyuanao.top/)**
 
-**[我们工作室的成名作](https://shequ.codemao.cn/work/2640538)**
+**[我们工作室室长的成名作](https://shequ.codemao.cn/work/2640538)**
 
 ### 我们工作室的简介
 
@@ -93,3 +93,70 @@
 - **2020.1.6 据统计，所有作品收藏总计达到了670多个！**
 
 - **2020.1.6 据统计，所有作品再创作总计达到了1110次！**
+
+### 成员名单
+
+**昵称|职务|分数
+**--|:--:|--:
+**Ryan袁奥|室长|0
+**地幻天影|副室长a|0
+**积木城池|副室长b|0
+**狂炎|工作室监督员|0
+**半夏|纪律委员（正）|0
+**巍宝|纪律委员（副）|0
+**♂尨de夶爺♀ |编程部组长|0
+**箫雨|公关部组长|0
+**沉默|美术部部长|0
+**地幻天影|漫说部部长|0
+**积木城池|文字部部长|0
+
+### 我们工作室开发的库
+
+**draw.py代码：
+
+(```)
+    import turtle
+
+    __Pen = turtle.Pen()
+
+
+        def up(length, frequency):
+
+        __Pen.setheading(90)
+        for __count in range(frequency):
+            __Pen.forward(length)
+
+    def down(length, frequency):
+
+        __Pen.setheading((-90))
+        for __count in range(frequency):
+            __Pen.forward(length)
+
+    def right(angle):
+
+        __Pen.right(angle)
+
+    def left(angle):
+
+        __Pen.left(angle)
+
+    def move(x, y):
+        __Pen.goto(x, y)
+
+    def x_coordinate(coordinatex):
+
+        __Pen.setx(coordinatex)
+
+    def y_coordinate1(coordinatey):
+
+        __Pen.sety(coordinatey)
+
+    def new(variable):
+
+        variable = turtle.Pen()
+
+(```)
+
+
+
+
